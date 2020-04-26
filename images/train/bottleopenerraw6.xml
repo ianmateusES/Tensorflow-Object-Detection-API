@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>bottleopenerraw6.JPG</filename>
+	<path>D:\objdetection\kitchen_utensils\train\bottleopenerraw6.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottleopener</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>89</ymin>
+			<xmax>1895</xmax>
+			<ymax>1365</ymax>
+		</bndbox>
+	</object>
+</annotation>
