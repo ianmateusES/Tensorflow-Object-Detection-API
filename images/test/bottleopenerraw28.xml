@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>bottleopenerraw28.jpg</filename>
+	<path>D:\objdetection\kitchen_utensils\test\bottleopenerraw28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>564</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottleopener</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>25</ymin>
+			<xmax>476</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>
