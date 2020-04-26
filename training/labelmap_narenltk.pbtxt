@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'bottleopener'
+}
+
+item {
+  id: 2
+  name: 'spoon'
+}
+
+item {
+  id: 3
+  name: 'fork'
+}
+
+item {
+  id: 4
+  name: 'peeler'
+}
+
+item {
+  id: 5
+  name: 'whisker'
+}
