@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dinnerforkraw3.JPG</filename>
+	<path>D:\objdetection\kitchen_utensils\train\dinnerforkraw3.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>440</ymin>
+			<xmax>1867</xmax>
+			<ymax>917</ymax>
+		</bndbox>
+	</object>
+</annotation>
