@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>dinnerforkraw53.jpg</filename>
+	<path>D:\objdetection\kitchen_utensils\test\dinnerforkraw53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>13</ymin>
+			<xmax>544</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

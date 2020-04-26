@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>peelerraw12.jpg</filename>
+	<path>D:\objdetection\kitchen_utensils\test\peelerraw12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>2322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>837</xmin>
+			<ymin>781</ymin>
+			<xmax>4099</xmax>
+			<ymax>2056</ymax>
+		</bndbox>
+	</object>
+</annotation>
