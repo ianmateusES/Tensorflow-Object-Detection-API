@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>whiskraw14.jpg</filename>
+	<path>D:\objdetection\kitchen_utensils\train\whiskraw14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>2322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whisker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>610</ymin>
+			<xmax>4091</xmax>
+			<ymax>2244</ymax>
+		</bndbox>
+	</object>
+</annotation>
