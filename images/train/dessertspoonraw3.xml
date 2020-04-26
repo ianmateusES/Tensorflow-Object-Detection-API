@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>dessertspoonraw3.JPG</filename>
+	<path>D:\objdetection\kitchen_utensils\train\dessertspoonraw3.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>435</ymin>
+			<xmax>1902</xmax>
+			<ymax>933</ymax>
+		</bndbox>
+	</object>
+</annotation>
