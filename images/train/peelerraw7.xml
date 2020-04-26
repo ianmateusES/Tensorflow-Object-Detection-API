@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>peelerraw7.JPG</filename>
+	<path>D:\objdetection\kitchen_utensils\train\peelerraw7.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>172</ymin>
+			<xmax>1813</xmax>
+			<ymax>1247</ymax>
+		</bndbox>
+	</object>
+</annotation>
