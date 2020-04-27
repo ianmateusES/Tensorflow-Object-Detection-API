@@ -85,3 +85,12 @@ C:\tensorflow2\models\research\object_detection
 python generate_tfrecord.py --csv_input=images\train_labels.csv --image_dir=images\train --output_path=train.record
 python generate_tfrecord.py --csv_input=images\test_labels.csv --image_dir=images\test --output_path=test.record
 ```
+## Execute the Training Program
+
+Make sure your inside the folder, and execute the following code
+```
+C:\tensorflow2\models\research\object_detection
+```
+```
+python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_inception_v2_pets.config
+```
