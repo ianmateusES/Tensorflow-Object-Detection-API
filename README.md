@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/tf.jpg">
+  <img src="output/tf.jpg">
 </p>
 
 # Tensorflow-Object-Detection-API
