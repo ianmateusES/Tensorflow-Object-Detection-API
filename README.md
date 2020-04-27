@@ -48,9 +48,10 @@ set PYTHONPATH=C:\tensorflow2\models\research
 set PYTHONPATH=C:\tensorflow2\models\research\slim
 ```
 
-**Once your done with this, you need to change the directory C:\tensorflow2\models\research then execute the following code**
+**Once your done with this, you need to change the directory and then execute the following code**
 
 ```
+C:\tensorflow2\models\research>
 C:\tensorflow2\models\research> python setup.py build
 C:\tensorflow2\models\research> python setup.py install
 ```
@@ -73,3 +74,14 @@ finally you will be having the following output
 <p align="center">
   <img src="output/labelimg_running.JPG">
 </p>
+
+## Generating TFRecord code
+
+Make sure your inside the folder 
+```
+C:\tensorflow2\models\research\object_detection
+```
+```
+python generate_tfrecord.py --csv_input=images\train_labels.csv --image_dir=images\train --output_path=train.record
+python generate_tfrecord.py --csv_input=images\test_labels.csv --image_dir=images\test --output_path=test.record
+```
