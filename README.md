@@ -33,4 +33,20 @@ C:\> pip install opencv-python
 **##Make sure that your always in admin mode when you work with protoc, if not you defenitely encounter error**
 
 You may encounter an error which is **No module named 'deployment' or No module named 'nets'**
+<p align="center">
+  <img src="output/nets_error.jpg">
+</p>
 
+to solve this do the following,
+```
+set PYTHONPATH=C:\tensorflow2\models
+set PYTHONPATH=C:\tensorflow2\models\research
+set PYTHONPATH=C:\tensorflow2\models\research\slim
+```
+
+**Once your done with this, you need to change the directory C:\tensorflow2\models\research then execute the following code**
+
+```
+C:\tensorflow2\models\research> python setup.py build
+C:\tensorflow2\models\research> python setup.py install
+```
