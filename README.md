@@ -30,4 +30,7 @@ C:\> pip install pandas
 C:\> pip install opencv-python
 ```
 
-##**Make sure that your always in admin mode when you work with protoc, if not you defenitely encounter error**
+**##Make sure that your always in admin mode when you work with protoc, if not you defenitely encounter error**
+
+You may encounter an error which is **No module named 'deployment' or No module named 'nets'**
+
