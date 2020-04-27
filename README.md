@@ -34,7 +34,7 @@ C:\> pip install opencv-python
 
 You may encounter an error which is **No module named 'deployment' or No module named 'nets'**
 <p align="center">
-  <img src="output/nets_error.jpg">
+  <img src="output/nets_error.JPG">
 </p>
 
 to solve this do the following,
