@@ -16,7 +16,7 @@ Download the full TensorFlow object detection repository located at https://gith
 
 Along with this you need to download the Tensorflow Model git repo and faster rcnn model from TensorFlow's model zoo
 
-Faster-RCNN-Inception-V2 model. [Download the model here.](http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz)
+**Faster-RCNN-Inception-V2 model. [Download the model here.](http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz)**
 
 ## Supporting files and models
 
