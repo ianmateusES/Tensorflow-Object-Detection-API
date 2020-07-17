@@ -6,7 +6,7 @@
 
 This is a Custom Object Detection using TensorFlow from Scratch. Here I have done a multi object classification for Kitchen Utilities. 
 
-You can find the detailed blog about this in this blog. Link(https://medium.com/@narenltk/train-your-own-dataset-for-object-detector-with-tensorflows-object-detector-api-53f74467f6d4)
+You can find the detailed blog about this in this blog. [Link](https://medium.com/@narenltk/train-your-own-dataset-for-object-detector-with-tensorflows-object-detector-api-53f74467f6d4)
 
 *You can also download the dataset from the link metioned below.*
 
